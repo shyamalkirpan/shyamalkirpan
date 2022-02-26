@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shyamalkirpan
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python 
+- 👀 I’m interested in python , flutter , ReactJS 
+- 🌱 I’m currently learning ReactJS 
+- 💞️ I’m looking to collaborate on any project based on python, FLutter, Nodejs, Reactjs 
 - 📫 How to reach me shyamalkirpan20@gmail.com
 
 <!---
