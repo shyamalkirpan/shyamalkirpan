@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shyamalkirpan
+- 👋 Hi, I’m shyamalkirpan
 - 👀 I’m interested in python, Html, Css, Bootstrap, javascript, ReactJS, Nextjs 13
 - 🌱 I’m currently learning ReactJS, Nextjs 
 - 💞️ I’m looking to collaborate on any project based on python, Javascript, Nodejs, Reactjs 
